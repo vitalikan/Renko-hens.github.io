@@ -1,0 +1,29 @@
+.text-center {
+  margin-top: 100px;
+}
+.row {
+margin-top: 100px;
+}
+.img-fluid {
+  height: 140px;
+  text-align: center;
+}
+
+.center__item{
+  font-size: 0;
+  text-align: center;
+}
+.center__item *{
+  font-size: 14px; 
+}
+.center__item .col-md-3 {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+h4{
+  margin-top: 30px;
+}
+.col-lg-2 {
+  margin-top: 30px;
+}
