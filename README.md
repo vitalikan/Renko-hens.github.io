@@ -10,5 +10,5 @@
 [Урок-8](https://renko-hens.github.io/8lessons/Project/src/  "Было сложно") - "Ускорение верстки"  
 [Урок-9](https://renko-hens.github.io/9lessons/src/ "Удобно") - "Верстка при помощи Bootstrap"  
 [Урок-10](https://renko-hens.github.io/10lessons/src/less/main.less  "Адски сложно для понимания,но в будущем пригодится") - "Препроцесоор Less"  
-[Урок-11](https://renko-hens.github.io/11lessons "Скриншоты") - "Снипетты"  
+[Урок-11](https://github.com/Renko-hens/Renko-hens.github.io/tree/master/11lessons "Скриншоты") - "Снипетты"  
 [Урок-12](https://github.com/Renko-hens/Renko-hens.github.io/tree/master/12lessons) - "Мини хостинг от GitHub"  
