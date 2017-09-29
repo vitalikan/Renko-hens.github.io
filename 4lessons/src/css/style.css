@@ -1,0 +1,30 @@
+h1 {
+  text-align: center;
+  border-style: groove;
+  border-color: #cacd58;
+}
+
+h2 {
+  text-align: center;
+  border-top-style: double;
+  border-color: #cacd58;
+}
+
+h3 {
+  text-align: center;
+  border-top: 2px solid grey;
+}
+
+.my-bold-font {
+    text-align: center;
+    color: black;
+    font-weight: 700;   
+}
+
+.my-underline-font{
+    text-decoration: underline;
+}
+.background-color {
+ background: rgba(255, 234, 13, 0.5);
+ font-style: italic;
+}
