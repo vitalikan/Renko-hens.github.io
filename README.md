@@ -12,3 +12,8 @@
 [Урок-10](https://renko-hens.github.io/10lessons/src/less/  "Адски сложно для понимания,но в будущем пригодится") - "Препроцесоор Less"  
 [Урок-11](https://renko-hens.github.io/11lessons/ "Скриншоты") - "Снипетты"  
 Урок-12 - "Мини хостинг от GitHub"  
+
+![VK](Renko-hens.github.io/logo/1485702035_1473183012_opcii-razrabotchika-v-kliente-vk-android.jpg "Подпись")
+![Логотип VK][logo]][VK]
+[logo]: Renko-hens.github.io/logo/1485702035_1473183012_opcii-razrabotchika-v-kliente-vk-android.jpg 
+[VK]: https://vk.com/renko_hens
