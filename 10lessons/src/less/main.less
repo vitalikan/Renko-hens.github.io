@@ -1,0 +1,157 @@
+@coldrkg:#1b1b1b;
+@colble:#5ba2a9;
+@col3:#d0d0d0;
+@col4:#454545;
+@col5:#515151;
+@bck1:#5ba2a9;
+@bck2:#488389;
+@clr:#ffffff;
+.reg() {
+  font-family: 'museo_reg', sans-serif;
+}
+.bold() {
+   font-family: 'museo_bold', sans-serif;
+}
+.fz_5() {
+ font-size: 1.5rem;
+}
+.fz_8() {
+  font-size: 1.8rem;
+}
+.before-after() {
+  content: '';
+  display: inline-block;
+  width: 1.5rem;
+  height: 0.1rem;
+  margin-bottom: 15px;
+  background-color: @colble;
+}
+
+html {
+  font-size: 10px;
+}
+body {
+  .reg();
+}
+section {
+  padding: 4rem 0.8rem;
+}
+a:hover,
+a:focus,
+a:active {
+  text-decoration: none;
+}
+button:focus,
+input:focus,
+a:focus,
+textarea:focus {
+  outline: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
+.feedback-forms-all {
+  padding: 6rem 0 9rem 0;
+}
+.section-title {
+  margin-bottom: 6rem;
+  text-align: center;
+  text-transform: uppercase;
+  .bold ();
+  font-size: 3rem;
+  color: @coldrkg;
+}
+.section-title .upper-icon-wrapper::before {
+  .before-after();
+}
+.section-title .upper-icon-wrapper::after {
+  .before-after();
+}
+.section-title .upper-icon-wrapper .upper-icon {
+  margin-bottom: 1.5rem;
+  width: 2rem;
+  height: 2rem;
+}
+.feedback-form-statement {
+  padding: 6rem 0 0;
+}
+.feedback-form-title {
+  margin-bottom: 6rem;
+  text-align: center;
+}
+.feedback-form-title h3 {
+  margin-bottom: 1.2rem;
+  .bold();
+  font-size: 2.5rem;
+  color: @coldrkg;
+}
+.feedback-form-title p {
+  .fz_8() ;
+}
+.feedback-form-input {
+  position: relative;
+  width: 100%;
+  padding: 1.4rem 4.5rem 1.4rem 1.4rem;
+  border: 2px solid @col3;
+  opacity: .5;
+  color: @col4;
+  -webkit-transition: 0.3s;
+  -moz-transition: 0.3s;
+  -ms-transitiosn: 0.3s;
+  transition: 0.3s;
+}
+.feedback-form-input::-webkit-input-placeholder {
+  color: @col5;
+  .fz_5();
+}
+.feedback-form-input::-moz-placeholder {
+  color:  @col5;
+  .fz_5();
+}
+.feedback-form-input:-moz-placeholder {
+  color:  @col5;
+  .fz_5();
+}
+.feedback-form-input:-ms-input-placeholder {
+  color:  @col5;
+  .fz_5();
+}
+.feedback-form-input:hover,
+.feedback-form-input:focus {
+  opacity: 1;
+}
+.feedback-form .input-user {
+  background: url(../img/shared/feedback/person-icon.svg) right 1.5rem center no-repeat;
+  background-size: 2rem;
+}
+.feedback-form .input-phone {
+  background: url(../img/shared/feedback/telephone-icon.svg) right 1.5rem center no-repeat;
+  background-size: 2rem;
+}
+.feedback-form-btn {
+  min-width: 100%;
+  padding: 1.2rem 0;
+  background-color: @bck1;
+  text-transform: uppercase;
+  border: none;
+  color: @clr;
+  font-size: 1.8rem;
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
+}
+.feedback-form-btn:hover {
+  background-color: @bck2;
+  border-radius: 10px;
+}
+.feedback-form .title-feedback {
+  display: block;
+}
+.feedback-form .description-feedback {
+  display: block;
+}
