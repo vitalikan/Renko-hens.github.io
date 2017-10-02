@@ -12,4 +12,4 @@
 [Урок-10](https://renko-hens.github.io/10lessons/src/less/main.less  "Адски сложно для понимания,но в будущем пригодится") - "Препроцесоор Less"  
 [Урок-11](https://github.com/Renko-hens/Renko-hens.github.io/tree/master/11lessons "Скриншоты") - "Снипетты"  
 [Урок-12](https://github.com/Renko-hens/Renko-hens.github.io/blob/master/README.md) - "Мини хостинг от GitHub"  
-[Урок-13](https://github.com/Renko-hens/Renko-hens.github.io/blob/master/README.md) - Работа в Pixel Perfect
+[Урок-13](https://renko-hens.github.io/13lessons/src/) - Работа в Pixel Perfect
