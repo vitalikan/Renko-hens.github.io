@@ -1,6 +1,6 @@
 .bcg {
     position: absolute;
-    background-image: url(/img/bg.png);
+    background-image: url('../img/bg.png');
     background-repeat: no-repeat;
     width: 570px;
     height: 570px;
@@ -46,7 +46,7 @@ strong {
     background-image: none;
     border: 1px solid #ccc;
     border-radius: 4px;
-    background-image: url(/img/bg.png);
+    background-image: url('../img/bg.png');
 }
 .email_form {   
     margin-top: 30px;
