@@ -1,0 +1,50 @@
+
+.text-box{
+	padding-top: 2rem;
+}
+.result {
+	margin-bottom: 0;
+	margin-top: 3rem;
+}
+.fonts {
+	font-size: 2rem;
+	text-align: center;
+	padding: 2rem;
+}
+small {
+	font-size: 1.3rem;
+}
+
+@font-face {
+	font-family: 'Bebas Neue Cyrillic';
+	src: url('../font_kir/subset-BebasNeueCyrillic.eot');
+	src: url('../font_kir/subset-BebasNeueCyrillic.eot?#iefix') format('embedded-opentype'),
+		url('../font_kir/subset-BebasNeueCyrillic.woff') format('woff'),
+		url('../font_kir/subset-BebasNeueCyrillic.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Lato';
+	src: url('../font_kir/subset-Lato-Regular.eot');
+	src: url('../font_kir/subset-Lato-Regular.eot?#iefix') format('embedded-opentype'),
+		url('../font_kir/subset-Lato-Regular.woff') format('woff'),
+		url('../font_kir/subset-Lato-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+.open-s , #open-s {
+	font-family: 'Open Sans', sans-serif;	
+}
+.Bebas , #Bebas {
+	font-family:'Bebas Neue Cyrillic', 'Bebas', sans-serif ;
+
+}
+.Lato , #Lato {
+	font-family: 'Lato',  sans-serif;
+}
+.lobster , #lobster {
+	font-family: 'Lobster', sans-serif;
+}
