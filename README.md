@@ -17,4 +17,4 @@
 [Урок-14](https://renko-hens.github.io/14lessons/) - Подключение Шрифтов  
 [Урок-15](https://renko-hens.github.io/15lessons/) - Псевдоклассы и псевдоэлементы  
 [Практика-3 часть](https://renko-hens.github.io/Practica%20Part%203/src/) - Адаптированная верстка и анимированние кнопок (верстка макета  [Урок-16]( https://renko-hens.github.io/16lesson/) - Слайдеры  
-[Практика-4 часть] https://renko-hens.github.io/Practica%204/src/) - Слайдер в деле,нервы на пределе
+[Практика-4 часть](https://renko-hens.github.io/Practica%204/src/) - Слайдер в деле,нервы на пределе
