@@ -1,0 +1,108 @@
+body {
+  background-image: url(../img/fone.jpg);
+}
+a{
+  color:black;
+  text-decoration: none;
+}
+.nav {
+  margin-top: 25px; 
+  width: 630px;
+}
+.nav-tabs {
+  border-bottom: none;
+}
+.tab-inside {
+  font-size: 24px;
+  margin-left: 30px;
+}
+.tab-reg {
+  font-size: 24px;
+}
+.tab-content{
+  width: 630px;
+  height: 410px;
+  background-color: #03a5da;
+  border-radius: 9px;
+  outline: none;
+  box-shadow: 0 0 100px #D8D8D8;
+}
+.nav-tabs>li>a {
+  background-color: #fff;
+  border-top: none;
+}
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+  color: #fff;
+  text-shadow: 1px 1px 2px #333;    
+  background-color: #03a5da;
+  margin-left: 30px;
+  margin-right: 10px;
+  border: none;
+  }
+.quad-b {
+  position: absolute;
+    margin: 26px;
+    width: 580px;
+    height: 360px;
+    padding: 25px;
+    border-radius: 10px;
+    background-color: #000;
+}
+.form-control {
+  background-color: #1E1D1D;
+  border:none;
+  width: 50rem;
+  height: 6rem;
+  padding: 1rem;
+  font-size: 22px;
+  color: #fff;
+}
+.form-text {
+  color: #C51F03;
+  font-size: 15px;
+}
+p{
+   display: inline-block;
+    max-width: 100%;
+    margin-top: 15px;
+    margin-left: 35px;
+}
+.form-btn {
+position: absolute;
+    width: 140px;
+    height: 45px;
+    background: #fff;
+    color: #ffffff;
+    background: radial-gradient(#E60400, #5C0300);
+    border: none;
+    font-size: 26px;
+    margin-top: -40px;
+    margin-left: 460px;
+    line-height: 35px;
+    outline: none;
+    text-align: center;
+  }
+  .form-btn::after {
+    content: '';
+    position: absolute;
+    left: 50px;
+    border: 7px solid transparent;
+    border-top: 7px solid #7f0501;
+    border-left: 7px solid #7f0501;
+    margin-top: 39px;
+    margin-left: 70px;
+    background: radial-gradient(#E60400,#5C0300);
+  }
+  .btn-in{
+  box-sizing: border-box;
+}
+  .form-check-label {
+   display: inline-block;
+    max-width: 100%;
+    margin-top: 28px;
+    margin-left: 35px;
+    font-weight: 700;
+  }
+  .form-group {
+    margin-bottom: 3rem;
+  }

@@ -1,0 +1,64 @@
+body {
+  background-image: url(../img/new.jpg);
+}
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  margin-top: 75px;
+  color: #0bbaf0;
+}
+h2 {
+  text-align: center;
+  text-transform: uppercase;
+  margin-top: 15px;
+  color: #0bbaf0;
+  margin-bottom: 30px;
+}
+small{
+   text-transform: uppercase;
+   color: #0bbaf0;
+}
+hr {
+  width:150px;
+  height: 1px;
+  background-color: #B5B5B5;
+}
+.horizontal-click [name="vkl"] { display: none; }
+.horizontal-click > :not(input):not(label) {
+  overflow: hidden;
+  height: 0;
+  margin: 0;
+  padding: 0px;
+  border: 2px solid #B5B5B5;
+  border-top-style: none;
+  transition:  0.9s;
+  background-color: white;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.horizontal-click > label {
+  overflow: hidden;
+  display: block;
+  padding: .6em 1em;
+  background: #0BBAF0;
+  color: white;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  cursor: pointer;
+}
+.horizontal-click > :checked + label + * {
+  overflow: auto;
+  height: 130px;
+}
+.horizontal-click > :checked + label {
+  background: #0BBAF0;
+  cursor: default;
+}
+.horizontal-click{
+    margin: 0 auto;
+    width: 800px;
+    height: 420px;
+    padding: 20px;
+    text-align: left;
+    font-size: 2rem;
+}
