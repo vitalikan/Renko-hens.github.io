@@ -20,4 +20,5 @@
 [Урок-16]( https://renko-hens.github.io/16lesson/) - Слайдеры  
 [Практика-4 часть](https://renko-hens.github.io/Practica%204/src/) - Слайдер в деле,нервы на пределе  
 [Урок-17]( https://renko-hens.github.io/17lessons/src/) - Модальные окна  
-[Практика-5 часть](https://renko-hens.github.io/Praktica5/src/) - Добавили всплывающее окно.
+[Практика-5 часть](https://renko-hens.github.io/Praktica5/src/) - Добавили всплывающее окно.  
+[Урок-18(часть 1)] ( https://renko-hens.github.io/18lessons/Akkordeon/src/)[Урок-18(часть 2)] ( https://renko-hens.github.io/18lessons/Forma%20registracii/src/)- Табы и Аккордеоны)  
