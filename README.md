@@ -19,4 +19,5 @@
 [Практика-3 часть](https://renko-hens.github.io/Practica%20Part%203/src/) - Адаптированная верстка и анимация кнопок (верстка макета)  
 [Урок-16]( https://renko-hens.github.io/16lesson/) - Слайдеры  
 [Практика-4 часть](https://renko-hens.github.io/Practica%204/src/) - Слайдер в деле,нервы на пределе  
-[Урок-17]( https://renko-hens.github.io/17lessons/src/) - Модальные окна
+[Урок-17]( https://renko-hens.github.io/17lessons/src/) - Модальные окна  
+[Практика-5 часть](https://renko-hens.github.io/Praktica5/src/) - Добавили всплывающее окно.
