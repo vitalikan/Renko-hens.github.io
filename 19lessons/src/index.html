@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Аккордеон</title>			
+		<link rel="stylesheet" type="text/css" href="css/animate.css">
+		<link rel="stylesheet" type="text/css" href="css/bootstrap.min.3.7.css">
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+
+</head>
+<body>
+	<div class="container animated slideInUp">
+		<div class="row">	
+			<!-- Tabs nav -->
+			<ul class="nav nav-tabs">
+          		<li class="active">
+           			<a class="tab-inside" href="#home" data-toggle="tab">Вход</a>
+           		</li>
+          		<li>
+           			<a class="tab-reg" href="#reg" data-toggle="tab">Регистрация</a>
+           		</li>
+        </ul>
+        <!-- Tab panes  -->
+        <div class="tab-content">
+        	<div class="quad-f" id="home">
+        		<div class="quad-b">
+        		<form>
+            	  <div class="form-group">
+            	    <label for="exampleInputEmail1"></label>
+            	    <input type="email" class="form-control animated flipInX" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Ваше имя">
+            	  </div>
+            	  <div class="form-group">
+            	    <label for="exampleInputPassword1"></label>
+            	    <input type="password" class="form-control animated flipInX" id="exampleInputPassword1" placeholder="Пароль">
+            	     <p class="box animated flipInY"><small id="passwordHelp" class="form-text text-muted">Забыли пароль?</small></p>
+            	  </div>
+            	  <div class="form-check">
+            	    <label class="form-check-label box animated hinge">
+            	      <input type="checkbox" class="form-check-input">
+            	      Напомнить мне
+            	    </label>
+            	  </div>
+            	</form>
+            	<div class="btn-in">
+            	  <button type="submit" class="btn form-btn animated bounce">Войти</button>
+            	  </div>
+            		</div>
+            	</div>
+            </div>
+  		</div>
+	</div>
+
+	<script src="https://raw.githubusercontent.com/matthieua/WOW/master/dist/wow.min.js"></script>
+
+	<script>
+		var wow = new WOW;
+		wow.init();
+	</script>
+</body>
+</html>
