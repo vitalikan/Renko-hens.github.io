@@ -24,3 +24,4 @@
 [Урок-18(часть 1)]( https://renko-hens.github.io/18lessons/Akkordeon/src/)|[Урок-18(часть 2)]( https://renko-hens.github.io/18lessons/Forma%20registracii/src/)- "Табы и Аккордеоны)"  
 [Практика-6 часть](https://renko-hens.github.io/practika6/src/) - "Сделали секцию с ценами."  
 [Урок-19](https://renko-hens.github.io/19lessons/src/)- "АНИМАЦИЯ CSS3."
+[Практика-7 часть] (https://renko-hens.github.io/Practika%207/src/) -
