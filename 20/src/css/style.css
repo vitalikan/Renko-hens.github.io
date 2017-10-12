@@ -10,7 +10,7 @@ a{
 }
 .section{
 	position: absolute;
-	min-height:100vh;
+	height:100vh;
 	text-align: center;
 	width: 100%;
 	display: table;
@@ -20,6 +20,8 @@ a{
 	position: relative;
 	display:-inline-block;
 	padding: 0;
+	max-width:3em;
+	max-height:3em;
 	display: table-cell;	
 	vertical-align: middle;
 }
